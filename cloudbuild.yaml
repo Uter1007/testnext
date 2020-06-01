@@ -18,4 +18,4 @@
    - '--platform'
    - 'managed'
  images:
- - 'gcr.io/$PROJECT_ID/nextjs-on-cloud-run:$COMMIT_SHA
+ - 'gcr.io/$PROJECT_ID/nextjs-on-cloud-run:$COMMIT_SHA'
